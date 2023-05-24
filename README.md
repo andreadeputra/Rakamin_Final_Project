@@ -1,10 +1,10 @@
 # Rakamin Final Project
 ## About Project
-Repository ini dibuat sebagai Final Project Bootcamp Data Science yang diadakan oleh Rakamin Academy. Final project ini mencakup praktik studi kasus penerapan hasil belajar selama bootcamp dengan memanfaatkan dataset dari Kaggle mengenai [Paket Liburan](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction). Output dari final project ini adalah untuk membuat simulasi bisnis beserta simulasi alur kerja data scientist.
+Repository ini dibuat sebagai Final Project Bootcamp Data Science Batch 32 yang diadakan oleh [Rakamin Academy](https://www.rakamin.com/). Final project ini mencakup praktik studi kasus penerapan hasil belajar selama bootcamp dengan memanfaatkan dataset dari Kaggle mengenai [Paket Liburan](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction). Output dari final project ini adalah untuk membuat simulasi bisnis beserta simulasi alur kerja data scientist.
 
 ## About Infinity
 Kelompok final project kami terdiri dari 8 orang, yaitu:
-- Andre Adeputra S: [@andreadeputra](https://github.com/andreadeputra)
+- [Andre Adeputra S](https://github.com/andreadeputra)
 - Gilang Muhammad Risky
 - Jomas Sekar Pawestri
 - M Nurkholis Fauzi
@@ -13,3 +13,5 @@ Kelompok final project kami terdiri dari 8 orang, yaitu:
 - Sakinah Nurul R
 - Vanesa
 
+# Project Overview
+## Latar Belakang

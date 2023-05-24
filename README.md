@@ -7,11 +7,11 @@ Kelompok final project kami terdiri dari 8 orang, yaitu:
 - [Andre Adeputra S](https://github.com/andreadeputra)
 - Gilang Muhammad Risky
 - Jomas Sekar Pawestri
-- M Nurkholis Fauzi
+- [M Nurkholis Fauzi](https://github.com/nurkholisfz)
 - Muhammad Syarif U
-- Naomi Florenata Damanik
-- Sakinah Nurul R
-- Vanesa
+- [Naomi Florenata Damanik](https://github.com/naomidmnk)
+- [Sakinah Nurul R](https://github.com/sakinahnr11)
+- [Vanesa](https://github.com/vanesanesa)
 
 # Project Overview
 ## Latar Belakang

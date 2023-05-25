@@ -5,8 +5,8 @@ Repository ini dibuat sebagai Final Project Bootcamp Data Science Batch 32 yang 
 ## About Infinity
 Kelompok final project kami terdiri dari 8 orang, yaitu:
 - [Andre Adeputra S](https://github.com/andreadeputra)
-- Gilang Muhammad Risky
-- Jomas Sekar Pawestri
+- [Gilang Muhammad Risky](https://github.com/gilangrizky67)
+- [Jomas Sekar Pawestri](https://github.com/jomassekar)
 - [M Nurkholis Fauzi](https://github.com/nurkholisfz)
 - Muhammad Syarif U
 - [Naomi Florenata Damanik](https://github.com/naomidmnk)

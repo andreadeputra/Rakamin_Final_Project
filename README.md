@@ -8,7 +8,7 @@ Kelompok final project kami terdiri dari 8 orang, yaitu:
 - [Gilang Muhammad Risky](https://github.com/gilangrizky67)
 - [Jomas Sekar Pawestri](https://github.com/jomassekar)
 - [M Nurkholis Fauzi](https://github.com/nurkholisfz)
-- [Muhammad Syarif U](https://github.com/sveel)
+- [Muhammad Syarif U](https://github.com/sveell)
 - [Naomi Florenata Damanik](https://github.com/naomidmnk)
 - [Sakinah Nurul R](https://github.com/sakinahnr11)
 - [Vanesa](https://github.com/vanesanesa)

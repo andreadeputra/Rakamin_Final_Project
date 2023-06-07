@@ -15,6 +15,14 @@ lorem ipsum
 7. Pada fitur DurationOfPitch, pelanggan yang membeli produk lebih banyak berasal dari pelanggan yang diberikan penawaran selama kurang dari 20 menit
 8. Pada fitur MonthlyIncome, pelanggan yang membeli produk lebih banyak berasal dari pelanggan dengan kisaran gaji 15,000–25,000 rupee
 
+## Data Pre-Processing
+Pada bagian ini, dilakukan beberapa penanganan terhadap kebersihan data diantaranya yaitu:
+1. Penyesuaian terhadap beberapa nilai pada kolom tertentu untuk membersihkan salah ketik dan menyederhanakan beberapa nilai ordinal
+2. Pengisian kolom yang bernilai kosong
+3. Penghapusan terhadap nilai duplikat dan pencilan
+4. Transformasi beberapa kolom numerik untuk mengubah skala
+
+Kemudian dilakukan pemilihan fitur dengan menggunakan nilai anova untuk melihat korelasi fitur numerik terhadap target ProdTaken. Mayoritas fitur, baik numerik maupun kategorikal, akan digunakan dengan pengecualian nilai NumberOfTrips dan NumberOfChildrenVisiting yang akan dibuang. Dari NumberOfChildrenVisiting diturunkan sebuah fitur baru bernilai biner yaitu fitur HasKids untuk melihat perilaku customer berdasarkan adanya anak atau tidak ketika mengambil paket liburan.
 
 ## About Infinity
 Kelompok final project kami terdiri dari 8 orang, yaitu:

@@ -5,7 +5,7 @@ Repository ini dibuat sebagai Final Project Bootcamp Data Science Batch 32 yang 
 ## Latar Belakang
 Dari dataset yang digunakan, kami menempatkan diri sebagai sebuah agensi yang bergerak di bidang data dengan nama Infinity Solutions. Pada masalah ini, klien kami "Trips&Travel" adalah sebuah perusahaan travel yang ingin membuat paket liburan baru. Masalah yang dihadapi oleh klien kami adalah bahwa pada marketing sebelumnya mereka tidak memiliki target customer yang jelas sehingga total pembelian atau conversion rate mereka rendah.
 
-![Grafik conversion rate](assets\TargetPie.png)
+![Grafik conversion rate](assets/TargetPie.png)
 
 Conversion rate yang rendah tersebut menyebabkan biaya yang dikeluarkan dirasa mahal. Sehingga pada masalah ini, tujuan yang ingin dicapai adalah untuk membuat model machine learning untuk mengidentifikasi target customer yang tepat sehingga conversion rate meningkat.
 
@@ -39,26 +39,26 @@ Berdasarkan tujuan awal untuk meningkatkan efisiensi marketing, fokus dari model
 
 Beberapa algoritma model yang digunakan dalam memprediksi antara lain:
 
-![Tabel evaluasi model machine learning](assets\EvalTable.png)
+![Tabel evaluasi model machine learning](assets/EvalTable.png)
 
 Berdasarkan tabel di atas, kami menggunakan algoritma AdaBoost yang memberi nilai precision 96%. Dari model AdaBoost tersebut, berikut adalah fitur yang dianggap penting:
 
-![Feature importance AdaBoost](assets\FeatureImportance.png)
+![Feature importance AdaBoost](assets/FeatureImportance.png)
 
 Dari feature importance tersebut, kami melakukan analisa lebih lanjut pada data sebagai dasar dari rekomendasi bisnis yang kami berikan.
 
 ## Business Recommendations
 Berikut adalah rekomendasi yang bisa kami berikan:
 - MonthlyIncome
-![Grafik sebaran customer berdasar pendapatan per bulan](assets\MonthlyIncome.png)
+![Grafik sebaran customer berdasar pendapatan per bulan](assets/MonthlyIncome.png)
 Menawarkan opsi paket dengan harga yang sesuai dengan penghasilan perbulan customer. Misalnya pada range harga produk seperti Basic dan Standard yang lebih sering dibeli. Harga yang sesuai dengan selera customers pada range income tersebut berkemungkinan lebih besar untuk mendorong pembelian.
 
 - Age
-![Grafik sebaran customer berdasar umur](assets\Age.png)
+![Grafik sebaran customer berdasar umur](assets/Age.png)
 Karena mayoritas customer sebelumnya berada pada rentang usia aktif bekerja, sebaiknya buat jenis paket yang fleksibel dari segi durasi. Paket yang fleksibel akan lebih menarik bagi customer yang sibuk dan ingin menggunakan liburan yang sesuai dengan jadwal kesibukan mereka.
 
 - DurationOfPitch
-![Grafik sebaran customer berdasar durasi penawaran](assets\DurationOfPitch.png)
+![Grafik sebaran customer berdasar durasi penawaran](assets/DurationOfPitch.png)
 Gunakan 10-minutes rule dalam melakukan penawaran. Sampaikan poin utama produk dan jawab pertanyaan mengenai produk secara padat. Informasi yang cukup akan mempermudah customer dalam mengambil keputusan.
 
 ## About Infinity
